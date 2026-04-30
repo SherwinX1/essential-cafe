@@ -15,7 +15,7 @@ export default function Navbar() {
         {/* Logo Image Container */}
         <div className="w-10 h-10 flex items-center justify-center overflow-hidden">
         <img 
-            src="/src/assets/logo.png" 
+            src="https://r2.fivemanage.com/ZUlxu4Femp6o4Lz0T7pqx/1-removebg-preview.png" 
             alt="Essential Hub Logo" 
             className="w-full h-full object-contain" 
         />
