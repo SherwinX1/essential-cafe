@@ -1,9 +1,9 @@
 // src/components/Navbar.jsx
 export default function Navbar() {
   const navLinks = [
-    { name: 'Home', href: '/Homepage.jsx' },
-    { name: 'Merchandise', href: '/Merchandise.jsx' },
-    { name: 'Rewards', href: '/Rewards.jsx' },
+    { name: 'Home', href: '#home' },
+    { name: 'Merchandise', href: '#merchandise' },
+    { name: 'Rewards', href: '#rewards' },
   ];
 
   return (
