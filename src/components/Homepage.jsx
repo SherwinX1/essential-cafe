@@ -17,13 +17,13 @@ export default function Homepage() {
 
         <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
         <a 
-            href="https://www.facebook.com/messages/t/103136719210870" 
+            href="https://www.facebook.com/EssentialHubCafe" 
             className="inline-block px-8 py-3 text-base font-semibold bg-[#4d2f19] text-white rounded-full shadow-lg shadow-[#4d2f19]/20 transition hover:bg-[#362012] text-center"
         >
             Reserve a Table
         </a>
         <a 
-            href="https://www.facebook.com/messages/t/103136719210870" 
+            href="https://www.facebook.com/EssentialHubCafe" 
             className="inline-block px-8 py-3 text-base font-semibold bg-white text-[#4d2f19] rounded-full border border-[#d1b7a5] shadow-sm transition hover:bg-[#f3e7dd] text-center"
         >
             View Menu

@@ -43,7 +43,7 @@ export default function Navbar() {
         {/* Auth / CTA */}
         <div className="flex items-center gap-3">
         <a 
-            href="https://www.facebook.com/messages/t/103136719210870" 
+            href="https://www.facebook.com/EssentialHubCafe" 
             target="_blank" 
             rel="noopener noreferrer"
         >
